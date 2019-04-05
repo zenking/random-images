@@ -12,3 +12,6 @@ https://api.aynu.top/ACG
 # 联系
 Email：admin@aynu.top  
 Blog：www.aynu.top
+# 接口随便用
+有钱的捧个钱场，没钱的捧个人场 ,谢谢~   
+![个支付宝捧个场~](https://www.aynu.top/wp-content/uploads/2019/04/1554447450-zhifubao.png)![给微信捧个场~](https://www.aynu.top/wp-content/uploads/2019/04/1554447434-wechatpayqr.png)
