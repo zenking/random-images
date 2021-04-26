@@ -1,5 +1,1 @@
-<?php
-$img=file('img.txt');
-$url=array_rand($img);
-header("Location:".$img[$url]);
-?>
+项目因版权原因删除
